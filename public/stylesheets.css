@@ -1,0 +1,34 @@
+body{
+    background-color:white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    margin: auto;
+}
+img{
+    border-radius: 15px;
+    margin: 50px;
+
+}
+body{
+    background: linear-gradient(white,rgba(128, 128, 128, 0.356),white);
+}
+a{
+    text-decoration:underline;
+    color:black;
+    padding: 200px 200px;
+    font-size:25px;
+    font-family:cursive;
+    
+
+}
+h1{
+    font-size:20px;
+   padding:50px,50px;
+   text-decoration:wavy;
+   color:black;
+   font-family: cursive;
+}
+h2{
+    font-family: cursive;
+    text-decoration: wavy;
+}
